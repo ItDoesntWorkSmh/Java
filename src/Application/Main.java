@@ -1,4 +1,5 @@
-import ApplicationGraphical.GraphicalUserInterface;
+package Application;
+
 import javafx.application.Application;
 
 public class Main extends GraphicalUserInterface {
